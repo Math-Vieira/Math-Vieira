@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Matheus 👋😀
 
-- 🌱 Atualmente estou estudando React JS
-- 👯 Procuro me tornar um desenvolvedor FullStack
+
 
 <div align="center">
   <a href="https://github.com/Math-Vieira">
