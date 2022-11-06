@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus 👋😀
 
 
-- 🌱 Atualmente estou estudando React JS
+- 🌱 Atualmente estou estudando NODE JS
 - 👯 Procuro me tornar um desenvolvedor FullStack
 
 <div>
