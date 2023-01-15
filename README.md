@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente estou estudando NODE JS
-- 👯 Procuro me tornar um desenvolvedor FullStack
+- 👯 Desenvolvedor web
 
 <!-- <div>
   <a href="https://github.com/Math-Vieira">
