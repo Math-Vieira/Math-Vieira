@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus 👋😀
 
 
-- 🌱 Atualmente estou estudando NODE JS
+- 🌱 Atualmente estou estudando NODEJS
 - 👯 Desenvolvedor web
 
 <!-- <div>
