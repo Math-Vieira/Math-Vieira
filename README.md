@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus 👋😀
+### Olá! Eu sou o Matheus 👋
 
 
 - 🌱 Atualmente estou estudando NODEJS
