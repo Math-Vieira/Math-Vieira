@@ -1,6 +1,6 @@
 ## Matheus Vieira - Desenvolvedor Web
 
-Meu nome é Matheus Vieira e eu sou um apaixonado por tecnologia que decidiu trilhar o caminho da programação. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
+Desenvolvedor web com expertise em React, Next, Node e Nest. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-React" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
