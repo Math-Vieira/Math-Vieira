@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C388&height=120&section=header"/>
+
 ## Matheus Vieira - Desenvolvedor Web
 
 Desenvolvedor web com expertise em React, Next, Node e Nest. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
@@ -17,3 +19,5 @@ Desenvolvedor web com expertise em React, Next, Node e Nest. Construo aplicaçõ
   <a href="https://www.linkedin.com/in/ymatheus-vieira/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C388&height=120&section=footer"/>
