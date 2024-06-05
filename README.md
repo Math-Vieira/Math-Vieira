@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C388&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef0131&height=120&section=header"/>
 
 ## Matheus Vieira - Desenvolvedor Web
 
@@ -20,4 +20,4 @@ Desenvolvedor web com expertise em React, Next, Node e Nest. Construo aplicaçõ
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C388&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef0131&height=120&section=footer"/>
